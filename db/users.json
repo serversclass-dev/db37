@@ -1,1 +1,20 @@
-{}
+{
+  "donia": {
+    "username": "donia",
+    "password": "donia123456789F*",
+    "student_type": "علمي",
+    "telegram_user_id": "5537266610",
+    "telegram_username": "dIId99",
+    "telegram_first_name": "ㅤㅤㅤㅤㅤㅤㅤ",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_35.jpg",
+    "session_id": "60051fb9-cae1-47e5-85c4-83001e8c6171",
+    "created_at": "2026-05-11T16:43:05.124932",
+    "verified": true,
+    "last_login": "2026-05-11T16:44:25.175957",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 37
+  }
+}

@@ -16,5 +16,23 @@
       "islamic"
     ],
     "server_num": 37
+  },
+  "Arwa": {
+    "username": "Arwa",
+    "password": "27/3/2009Arwa",
+    "student_type": "علمي",
+    "telegram_user_id": "7792845241",
+    "telegram_username": null,
+    "telegram_first_name": "🦋",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_85.jpg",
+    "session_id": "d62cabf1-f8e0-4c5c-8d51-3b1d0677576d",
+    "created_at": "2026-05-13T12:44:13.473948",
+    "verified": true,
+    "last_login": "2026-05-13T12:47:12.189012",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 37
   }
 }
